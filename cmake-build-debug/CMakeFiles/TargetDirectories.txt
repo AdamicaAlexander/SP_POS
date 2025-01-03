@@ -1,0 +1,3 @@
+C:/Users/sande/Documents/School/FRI UNIZA Y3/S5/POS/Semestrálna práca/SP/cmake-build-debug/CMakeFiles/SP.dir
+C:/Users/sande/Documents/School/FRI UNIZA Y3/S5/POS/Semestrálna práca/SP/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/sande/Documents/School/FRI UNIZA Y3/S5/POS/Semestrálna práca/SP/cmake-build-debug/CMakeFiles/rebuild_cache.dir
